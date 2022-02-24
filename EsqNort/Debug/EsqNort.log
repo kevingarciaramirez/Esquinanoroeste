@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Darks\source\repos\EsqNort\EsqNort\MyForm.h(526): warning C4700: se utilizó la variable local 'sumoferta' sin inicializar
+C:\Users\Darks\source\repos\EsqNort\EsqNort\MyForm.h(529): warning C4700: se utilizó la variable local 'sumdemanda' sin inicializar
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  EsqNort.vcxproj -> C:\Users\Darks\source\repos\EsqNort\Debug\EsqNort.exe

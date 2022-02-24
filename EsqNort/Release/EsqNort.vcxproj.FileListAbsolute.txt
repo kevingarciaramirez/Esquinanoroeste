@@ -1,0 +1,5 @@
+C:\Users\Darks\source\repos\EsqNort\EsqNort\Release\EsqNort.vcxproj.AssemblyReference.cache
+C:\Users\Darks\source\repos\EsqNort\EsqNort\Release\EsqNort.MyForm.resources
+C:\Users\Darks\source\repos\EsqNort\EsqNort\Release\EsqNort.MyForm1.resources
+C:\Users\Darks\source\repos\EsqNort\EsqNort\Release\EsqNort.MyForm2.resources
+C:\Users\Darks\source\repos\EsqNort\EsqNort\Release\EsqNort.vcxproj.GenerateResource.cache
